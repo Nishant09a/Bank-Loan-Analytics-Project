@@ -1,6 +1,9 @@
 Bank Loan Analytics Dashboard
+
 Tool Used : Power Bi
+
 project link : [https://www.novypro.com/project/bank-loan-analytics-dashboard](url)
+
 Problem Statement:
 Despite a healthy and growing loan portfolio with a high repayment rate and low delinquency rate, the bank faces several challenges:-
 
